@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://morelos334.lovable.dev/sitemap.xml
