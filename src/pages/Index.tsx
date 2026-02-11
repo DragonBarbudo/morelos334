@@ -6,15 +6,15 @@ import { MapPin } from "lucide-react";
 
 const Index = () => {
     const images = [
-        "/public/banner/g0.avif",
-        "/public/banner/g1.avif",
-        "/public/banner/g2.avif",
-        "/public/banner/g3.avif",
+        "/banner/g0.avif",
+        "/banner/g1.avif",
+        "/banner/g2.avif",
+        "/banner/g3.avif",
     ];
     const bannerImages = [
-        "/public/banner/p1.avif",
-        "/public/banner/p2.avif",
-        "/public/banner/p3.avif"
+        "/banner/p1.avif",
+        "/banner/p2.avif",
+        "/banner/p3.avif"
 
     ]
 
