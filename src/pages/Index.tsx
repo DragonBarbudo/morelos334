@@ -71,7 +71,7 @@ const Index = () => {
                         <section id="galeria" className="space-y-8">
                             <div className="flex items-end justify-between">
                                 <div className="space-y-2">
-                                    <h2 className="text-4xl font-black text-gray-900">Gallería</h2>
+                                    <h2 className="text-4xl font-black text-gray-900">Galería</h2>
                                     <p className="text-gray-500 font-medium">Visualiza cada detalle del local</p>
                                 </div>
                             </div>
