@@ -30,7 +30,7 @@ const Index = () => {
                         <span className="font-black text-xl tracking-tighter text-gray-900">MORELOS 334</span>
                     </div>
                     <a
-                        href="https://wa.me/5215585328922?text=Me%20interesa%20el%20inmueble%20en%20Morelos%20336"
+                        href="https://wa.me/5215585328922?text=Me%20interesa%20el%20inmueble%20en%20Morelos%20334"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hidden md:flex bg-primary text-white px-6 py-2.5 rounded-full font-bold hover:variant-primary transition-all shadow-md hover:shadow-primary/20 hover:-translate-y-0.5"
@@ -106,7 +106,7 @@ const Index = () => {
                             </div>
 
                             <a
-                                href="https://wa.me/5215585328922?text=Me%20interesa%20el%20inmueble%20en%20Morelos%20336"
+                                href="https://wa.me/5215585328922?text=Me%20interesa%20el%20inmueble%20en%20Morelos%20334"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center justify-center w-full bg-primary text-white font-black py-4 rounded-2xl shadow-lg shadow-primary/20 hover:scale-[1.02] transition-all"
@@ -136,7 +136,7 @@ const Index = () => {
             {/* Mobile Float CTA */}
             <div className="fixed bottom-6 left-6 right-6 md:hidden z-50">
                 <a
-                    href="https://wa.me/5215585328922?text=Me%20interesa%20el%20inmueble%20en%20Morelos%20336"
+                    href="https://wa.me/5215585328922?text=Me%20interesa%20el%20inmueble%20en%20Morelos%20334"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center w-full bg-primary text-white font-black py-4 rounded-2xl shadow-xl shadow-primary/30"
